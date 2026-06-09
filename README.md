@@ -170,6 +170,10 @@ streamlit run app.py
 | Deployment | Streamlit Cloud |
 
 ---
+## Snap Shots
+(img/HReadmission pg1.png)
+(img/HReadmission pg2.png)
+(img/HReadmission pg3.png)
 
 
 *Built as a data analyst / ML portfolio project — demonstrating end-to-end ML, feature engineering, model evaluation, and explainability.*
