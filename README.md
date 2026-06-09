@@ -171,6 +171,7 @@ streamlit run app.py
 
 ---
 ## Snap Shots
+<img src="img/HReadmission_pg1.png" width="800"/>
 "img/HReadmission_pg1.png"
 (img/HReadmission pg2.png)
 (img/HReadmission pg3.png)
