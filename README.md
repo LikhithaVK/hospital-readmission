@@ -172,9 +172,9 @@ streamlit run app.py
 ---
 ## Snap Shots
 <img src="img/HReadmission_pg1.png" width="800"/>
-"img/HReadmission_pg1.png"
-(img/HReadmission pg2.png)
-(img/HReadmission pg3.png)
-
-
+---
+<img src="img/HReadmission_pg3.png" width="800"/>
+---
+<img src="img/HReadmission_pg3.png" width="800"/>
+---
 *Built as a data analyst / ML portfolio project — demonstrating end-to-end ML, feature engineering, model evaluation, and explainability.*
